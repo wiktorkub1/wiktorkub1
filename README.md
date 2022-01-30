@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wiktorkub1
-- 🌱 I’m currently learning C++ but I also plan to learn basics of Python in the near future. I've recently purchased an Arduino kit, and I am going to widen 
+- 🌱 I’m currently learning C++ but I also plan to improve Python in the near future. I've recently purchased an Arduino kit, and I am going to widen 
 my knowledge in programming microcontrollers.
 
 Currently reading:
