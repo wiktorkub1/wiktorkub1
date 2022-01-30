@@ -4,7 +4,7 @@ my knowledge in programming microcontrollers.
 
 Currently reading:
 - Clean Code by Robert C. Martin
-- Effective Modern C++ by Scott Meyers
+- C++ 17 STL Cookbook by Jacek Galowicz
 
 <!---
 wiktorkub1/wiktorkub1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
