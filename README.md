@@ -1,5 +1,5 @@
 Hi, I’m @wiktorkub1
-I’m currently programming in C/C++ but in the near future I also plan to improve Python with emphasis on Machine Learning/AI which I find very interesting.
+I’m currently programming in C++ but in the near future I also plan to improve Python with emphasis on Machine Learning/AI which I find very interesting.
 
 Currently reading:
 - Clean Code by Robert C. Martin
